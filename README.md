@@ -32,7 +32,7 @@ An interactive 3D Earth visualization that allows you to explore countries aroun
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/3d-earth-explorer.git
+   git clone https://github.com/kaiserofthenight/3d-earth-explorer.git
    cd 3d-earth-explorer
    ```
 
