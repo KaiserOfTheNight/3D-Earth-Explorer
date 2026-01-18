@@ -1,16 +1,63 @@
-# React + Vite
+# 🌍 3D Earth Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D Earth visualization that allows you to explore countries around the world with a beautiful wireframe globe interface. Built with React, Three.js, and modern web technologies.
 
-Currently, two official plugins are available:
+![Earth Explorer Demo](./demo.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- **Interactive 3D Globe** - Smooth rotation and zoom controls
+- **Country Selection** - Click on any country to view detailed information
+- **Real-time Data** - Fetches live country data from REST Countries API
+- **Wireframe Design** - Minimalist aesthetic with country border lines
+- **Smooth Animations** - Camera transitions and hover effects
+- **190+ Countries** - Comprehensive coverage of world geography
+- **Responsive UI** - Glassmorphism info panel with country details
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Demo
 
-## Expanding the ESLint configuration
+[Live Demo](https://your-demo-url.com) | [Video Preview](https://your-video-url.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](./screenshots/main.png)
+
+### Country Selected
+![Country Selected](./screenshots/country-selected.png)
+
+## 🛠️ Tech Stack
+
+- **React 18** - UI framework
+- **Three.js** - 3D graphics
+- **@react-three/fiber** - React renderer for Three.js
+- **@react-three/drei** - Useful helpers for React Three Fiber
+- **Tailwind CSS** - Styling
+- **Vite** - Build tool and dev server
+- **REST Countries API** - Country data
+
+## 📦 Installation
+
+### Prerequisites
+- Node.js 16+ 
+- npm or yarn
+
+### Setup
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/yourusername/3d-earth-explorer.git
+   cd 3d-earth-explorer
+```
+
+2. **Install dependencies**
+```bash
+   npm install
+```
+
+3. **Start development server**
+```bash
+   npm run dev
+```
+
+4. **Open in browser**
