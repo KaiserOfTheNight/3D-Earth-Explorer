@@ -178,8 +178,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@kaiserOfTheNight](https://github.com/kaiserOfTheNight)a
-- Portfolio: [aderrazzak.vercel.app](https://aderrazzak.vercel.app)
+- GitHub: [@kaiserOfTheNight](https://github.com/kaiserOfTheNight)
+- Portfolio: [abderrazzak.vercel.app](https://abderrazzak.vercel.app)
 
 ## 📞 Support
 
